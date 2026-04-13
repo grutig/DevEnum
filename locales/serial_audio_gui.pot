@@ -1,0 +1,205 @@
+# Translations template for Serial Audio GUI.
+# Copyright (C) 2026 Giorgio Leo Rutigliano, I8ZSE
+# This file is distributed under the same license as the Serial Audio GUI
+# project.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Serial Audio GUI 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2026-04-12 13:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: serial_audio_gui.py:142 serial_audio_gui.py:518
+msgid "Virtual"
+msgstr ""
+
+#: serial_audio_gui.py:150
+msgid "PTY (pseudo-terminal)"
+msgstr ""
+
+#: serial_audio_gui.py:160
+msgid "PTY (legacy BSD)"
+msgstr ""
+
+#: serial_audio_gui.py:165
+msgid "Virtual pair (socat / tty0tty)"
+msgstr ""
+
+#: serial_audio_gui.py:170
+msgid "Virtual (no VID)"
+msgstr ""
+
+#: serial_audio_gui.py:178 serial_audio_gui.py:516
+msgid "External USB"
+msgstr ""
+
+#: serial_audio_gui.py:191
+msgid "Internal RS-232"
+msgstr ""
+
+#: serial_audio_gui.py:200
+msgid "Internal PCI/PCIe"
+msgstr ""
+
+#: serial_audio_gui.py:205
+msgid "Bluetooth"
+msgstr ""
+
+#: serial_audio_gui.py:210
+msgid "External USB (generic)"
+msgstr ""
+
+#: serial_audio_gui.py:344
+msgid "In use"
+msgstr ""
+
+#: serial_audio_gui.py:347
+msgid "Available"
+msgstr ""
+
+#: serial_audio_gui.py:352
+msgid "Driver / Descr."
+msgstr ""
+
+#: serial_audio_gui.py:353
+msgid "HWID"
+msgstr ""
+
+#: serial_audio_gui.py:361
+msgid "VID:PID"
+msgstr ""
+
+#: serial_audio_gui.py:363
+msgid "Serial No."
+msgstr ""
+
+#: serial_audio_gui.py:366
+msgid "USB location"
+msgstr ""
+
+#: serial_audio_gui.py:368
+msgid "IRQ"
+msgstr ""
+
+#: serial_audio_gui.py:369
+msgid "I/O address"
+msgstr ""
+
+#: serial_audio_gui.py:372
+msgid "PTY master"
+msgstr ""
+
+#: serial_audio_gui.py:375
+msgid "Process"
+msgstr ""
+
+#: serial_audio_gui.py:413
+msgid "Default I/O"
+msgstr ""
+
+#: serial_audio_gui.py:416
+msgid "Default IN"
+msgstr ""
+
+#: serial_audio_gui.py:419
+msgid "Default OUT"
+msgstr ""
+
+#: serial_audio_gui.py:432
+msgid "In"
+msgstr ""
+
+#: serial_audio_gui.py:436
+msgid "Out"
+msgstr ""
+
+#: serial_audio_gui.py:447
+msgid "Low input lat."
+msgstr ""
+
+#: serial_audio_gui.py:448
+msgid "Low output lat."
+msgstr ""
+
+#: serial_audio_gui.py:449
+msgid "High input lat."
+msgstr ""
+
+#: serial_audio_gui.py:450
+msgid "High output lat."
+msgstr ""
+
+#: serial_audio_gui.py:451
+msgid "Host API"
+msgstr ""
+
+#: serial_audio_gui.py:465 serial_audio_gui.py:483
+msgid "Serial & Audio Device Viewer"
+msgstr ""
+
+#: serial_audio_gui.py:494
+msgid "  Serial Ports  "
+msgstr ""
+
+#: serial_audio_gui.py:495
+msgid "  Audio Devices  "
+msgstr ""
+
+#: serial_audio_gui.py:515 serial_audio_gui.py:602
+msgid "All"
+msgstr ""
+
+#: serial_audio_gui.py:517
+msgid "Internal"
+msgstr ""
+
+#: serial_audio_gui.py:531 serial_audio_gui.py:617
+msgid "Refresh"
+msgstr ""
+
+#: serial_audio_gui.py:559
+msgid "Physical · External (USB)"
+msgstr ""
+
+#: serial_audio_gui.py:560
+msgid "Physical · Internal (RS-232 / PCI)"
+msgstr ""
+
+#: serial_audio_gui.py:561
+msgid "Virtual · Software (PTY / socat)"
+msgstr ""
+
+#: serial_audio_gui.py:577
+msgid "No serial ports found."
+msgstr ""
+
+#: serial_audio_gui.py:584
+#, python-brace-format
+msgid "{n} port(s) found"
+msgstr ""
+
+#: serial_audio_gui.py:603
+msgid "Input only"
+msgstr ""
+
+#: serial_audio_gui.py:604
+msgid "Output only"
+msgstr ""
+
+#: serial_audio_gui.py:647
+msgid "No audio devices found."
+msgstr ""
+
+#: serial_audio_gui.py:653
+#, python-brace-format
+msgid "{n} device(s) found"
+msgstr ""
+
