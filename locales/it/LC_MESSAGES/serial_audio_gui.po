@@ -1,0 +1,155 @@
+# Italian translations for Serial Audio GUI.
+# Copyright (C) 2026 Giorgio Rutigliano, I8ZSE
+# This file is distributed under the same license as the Serial Audio GUI project.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Serial Audio GUI 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2026-04-12 00:00+0000\n"
+"PO-Revision-Date: 2026-04-12 00:00+0000\n"
+"Last-Translator: IZ0XXX <you@example.com>\n"
+"Language-Team: Italian\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Virtual"
+msgstr "Virtuale"
+
+msgid "PTY (pseudo-terminal)"
+msgstr "PTY (pseudo-terminale)"
+
+msgid "PTY (legacy BSD)"
+msgstr "PTY (legacy BSD)"
+
+msgid "Virtual pair (socat / tty0tty)"
+msgstr "Coppia virtuale (socat / tty0tty)"
+
+msgid "Virtual (no VID)"
+msgstr "Virtuale (senza VID)"
+
+msgid "External USB"
+msgstr "Esterna USB"
+
+msgid "Internal RS-232"
+msgstr "Interna RS-232"
+
+msgid "Internal PCI/PCIe"
+msgstr "Interna PCI/PCIe"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "External USB (generic)"
+msgstr "Esterna USB (generica)"
+
+msgid "In use"
+msgstr "In uso"
+
+msgid "Available"
+msgstr "Disponibile"
+
+msgid "Driver / Descr."
+msgstr "Driver / Descr."
+
+msgid "HWID"
+msgstr "HWID"
+
+msgid "VID:PID"
+msgstr "VID:PID"
+
+msgid "Serial No."
+msgstr "N. seriale"
+
+msgid "USB location"
+msgstr "Posizione USB"
+
+msgid "IRQ"
+msgstr "IRQ"
+
+msgid "I/O address"
+msgstr "Indirizzo I/O"
+
+msgid "PTY master"
+msgstr "PTY master"
+
+msgid "Process"
+msgstr "Processo"
+
+msgid "Default I/O"
+msgstr "Default I/O"
+
+msgid "Default IN"
+msgstr "Default IN"
+
+msgid "Default OUT"
+msgstr "Default OUT"
+
+msgid "In"
+msgstr "In"
+
+msgid "Out"
+msgstr "Out"
+
+msgid "Low input lat."
+msgstr "Lat. ingresso bassa"
+
+msgid "Low output lat."
+msgstr "Lat. uscita bassa"
+
+msgid "High input lat."
+msgstr "Lat. ingresso alta"
+
+msgid "High output lat."
+msgstr "Lat. uscita alta"
+
+msgid "Host API"
+msgstr "Host API"
+
+msgid "Serial & Audio Device Viewer"
+msgstr "Visualizzatore Porte Seriali e Audio"
+
+msgid "  Serial Ports  "
+msgstr "  Porte Seriali  "
+
+msgid "  Audio Devices  "
+msgstr "  Dispositivi Audio  "
+
+msgid "All"
+msgstr "Tutte"
+
+msgid "Internal"
+msgstr "Interne"
+
+msgid "Refresh"
+msgstr "Aggiorna"
+
+msgid "Physical · External (USB)"
+msgstr "Fisiche · Esterne (USB)"
+
+msgid "Physical · Internal (RS-232 / PCI)"
+msgstr "Fisiche · Interne (RS-232 / PCI)"
+
+msgid "Virtual · Software (PTY / socat)"
+msgstr "Virtuali · Software (PTY / socat)"
+
+msgid "No serial ports found."
+msgstr "Nessuna porta seriale trovata."
+
+msgid "{n} port(s) found"
+msgstr "{n} porta/e trovata/e"
+
+msgid "Input only"
+msgstr "Solo ingresso"
+
+msgid "Output only"
+msgstr "Solo uscita"
+
+msgid "No audio devices found."
+msgstr "Nessun dispositivo audio trovato."
+
+msgid "{n} device(s) found"
+msgstr "{n} dispositivo/i trovato/i"
